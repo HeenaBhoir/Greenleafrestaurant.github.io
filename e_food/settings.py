@@ -28,7 +28,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     "127.0.0.8000",
-    "greenleafres.herokuapp.com"
+    "greenleafrestaurant.herokuapp.com"
 ]
 
 
